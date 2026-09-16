@@ -1,0 +1,11 @@
+{
+  "appId": "com.wealthflow.app",
+  "appName": "WealthFlow",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
